@@ -3,8 +3,16 @@
 	padding:0;
 	box-sizing:border-box;
 }
-.align-center{
-	display:flex;
-	justify-content:center;
-	align-items:center;
+.login-page{
+	background-color:skyblue;
+	margin:30px 50px;
+	padding:30px;
+}
+.details{
+	font-size:20px;
+}
+.login-page button{
+	padding:8px 10px;
+	margin:10px;
+	font-size:12px;
 }
